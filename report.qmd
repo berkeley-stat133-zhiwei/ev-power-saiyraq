@@ -13,7 +13,7 @@ format: typst
 
 ## **Part 1:** **Defining Research Question**
 
-Chosen Question:
+Chosen Question: Which states produce the largest share of their electricity from renewable sources
 
 ## **Part 2: Data Preparation and Cleaning**
 
